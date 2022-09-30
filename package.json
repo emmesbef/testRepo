@@ -1,0 +1,11 @@
+{
+  "name": "testRepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/emmesbef/testRepo.git",
+  "author": "Fabian Emmesberger <fabian.emmesberger@kripserver.net>",
+  "license": "MIT",
+  "dependencies": {
+    "danger": "^11.1.2"
+  }
+}
