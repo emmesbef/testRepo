@@ -1,7 +1,7 @@
 import { danger, fail, warn } from "danger"
 
-const gitlab = danger.gitlab;
+const github = danger.github.pr;
 
-if(!gitlab.api){
-    fail("no access to the api");
+if(github.body.length===0){
+    fail("add some text");
 }
