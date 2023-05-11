@@ -7,5 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "danger": "^11.1.2"
+  },
+  "devDependencies": {
+    "danger-plugin-labels": "^2.1.1"
   }
 }
