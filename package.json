@@ -5,6 +5,7 @@
   "repository": "https://github.com/emmesbef/testRepo.git",
   "author": "Fabian Emmesberger <fabian.emmesberger@kripserver.net>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "danger": "^11.2.6"
   },
